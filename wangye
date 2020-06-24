@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>My web</title>
+</head>
+<body>
+<!-- sup标签的是上标，sub标签代表的是下标。 -->
+	2x<sup>2</sup>+3x=9<br>
+	x<sub>1</sub>+x<sub>2</sub>=10
+</body>
+</html>
